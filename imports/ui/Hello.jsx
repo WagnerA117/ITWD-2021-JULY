@@ -9,7 +9,7 @@ export const Hello = () => {
 
   return (
     <div>
-      <button onClick={increment}>Click Me</button>
+      <button onClick={increment}>Click Me Please!</button>
       <p>You've pressed the button {counter} times.</p>
     </div>
   );
